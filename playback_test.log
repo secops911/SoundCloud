@@ -1,0 +1,297 @@
+[2025-01-15 14:29:47.812725] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:47.816097] Relaunching script within the virtual environment...
+[2025-01-15 14:29:48.058223] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:48.061788] Relaunching script within the virtual environment...
+[2025-01-15 14:29:48.303129] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:48.307236] Relaunching script within the virtual environment...
+[2025-01-15 14:29:48.545630] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:48.548396] Relaunching script within the virtual environment...
+[2025-01-15 14:29:48.796288] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:48.799174] Relaunching script within the virtual environment...
+[2025-01-15 14:29:49.054336] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:49.058188] Relaunching script within the virtual environment...
+[2025-01-15 14:29:49.298324] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:49.302285] Relaunching script within the virtual environment...
+[2025-01-15 14:29:49.537547] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:49.542676] Relaunching script within the virtual environment...
+[2025-01-15 14:29:49.791653] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:49.795167] Relaunching script within the virtual environment...
+[2025-01-15 14:29:50.034240] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:50.037772] Relaunching script within the virtual environment...
+[2025-01-15 14:29:50.361310] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:50.364919] Relaunching script within the virtual environment...
+[2025-01-15 14:29:50.619218] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:50.622299] Relaunching script within the virtual environment...
+[2025-01-15 14:29:50.865270] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:50.869069] Relaunching script within the virtual environment...
+[2025-01-15 14:29:51.114844] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:51.118866] Relaunching script within the virtual environment...
+[2025-01-15 14:29:51.363023] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:51.365936] Relaunching script within the virtual environment...
+[2025-01-15 14:29:51.650400] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:51.653485] Relaunching script within the virtual environment...
+[2025-01-15 14:29:51.914662] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:51.917601] Relaunching script within the virtual environment...
+[2025-01-15 14:29:52.187446] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:52.191129] Relaunching script within the virtual environment...
+[2025-01-15 14:29:52.585528] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:52.589541] Relaunching script within the virtual environment...
+[2025-01-15 14:29:52.935669] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:52.939112] Relaunching script within the virtual environment...
+[2025-01-15 14:29:53.314712] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:53.318213] Relaunching script within the virtual environment...
+[2025-01-15 14:29:53.564710] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:53.567724] Relaunching script within the virtual environment...
+[2025-01-15 14:29:53.850173] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:53.854179] Relaunching script within the virtual environment...
+[2025-01-15 14:29:54.579456] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:29:54.586422] Relaunching script within the virtual environment...
+[2025-01-15 14:44:42.975034] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:44:42.978889] Installing dependencies in the virtual environment...
+[2025-01-15 14:44:42.979746] Checking and installing dependencies...
+[2025-01-15 14:44:45.808756] All dependencies are installed.
+[2025-01-15 14:44:45.810707] Relaunching script within the virtual environment...
+[2025-01-15 14:44:46.047013] Using virtual environment Python: venv/bin/python
+[2025-01-15 14:45:22.506189] Session 1: Initializing WebDriver...
+[2025-01-15 14:45:25.841062] Session 1: WebDriver initialized successfully.
+[2025-01-15 14:45:26.725623] Session 1: Using Tor IP 5.255.121.11
+[2025-01-15 14:45:26.726884] Session 1: Accessing https://soundcloud.com/dj_chad_hamad/oka-ana-mesh-faker-el-kobleh?si=cbe77ad59304495b9356fd711ef4da46&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing...
+[2025-01-15 14:45:45.497725] Session 1: Waiting for the play button...
+[2025-01-15 14:45:45.550002] Session 1: Play button found. Attempting to click...
+[2025-01-15 14:45:45.564189] Session 1: Playing for 60 seconds...
+[2025-01-15 14:46:45.565669] Session 1: Playback complete.
+[2025-01-15 14:47:15.704228] Session 2: Initializing WebDriver...
+[2025-01-15 14:47:18.162430] Session 2: WebDriver initialized successfully.
+[2025-01-15 14:47:19.755371] Session 2: Using Tor IP 185.40.4.149
+[2025-01-15 14:47:19.756489] Session 2: Accessing https://soundcloud.com/dj_chad_hamad/oka-ana-mesh-faker-el-kobleh?si=cbe77ad59304495b9356fd711ef4da46&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing...
+[2025-01-15 14:47:31.419413] Session 2: Waiting for the play button...
+[2025-01-15 14:47:31.440330] Session 2: Play button found. Attempting to click...
+[2025-01-15 14:47:31.583407] Session 2: Playing for 60 seconds...
+[2025-01-15 14:48:31.587270] Session 2: Playback complete.
+[2025-01-15 14:49:02.756016] Session 3: Initializing WebDriver...
+[2025-01-15 14:49:04.454566] Session 3: WebDriver initialized successfully.
+[2025-01-15 14:49:05.251880] Session 3: Using Tor IP 92.246.84.133
+[2025-01-15 14:49:05.252908] Session 3: Accessing https://soundcloud.com/dj_chad_hamad/oka-ana-mesh-faker-el-kobleh?si=cbe77ad59304495b9356fd711ef4da46&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing...
+[2025-01-15 14:49:09.371669] Session 3: Waiting for the play button...
+[2025-01-15 14:49:10.526697] Session 3: Play button found. Attempting to click...
+[2025-01-15 14:49:11.652467] Session 3: Error - Message: element click intercepted: Element is not clickable at point (60, 451)
+  (Session info: chrome=131.0.6778.264)
+Stacktrace:
+#0 0x57e703b545ea <unknown>
+#1 0x57e70367b6e0 <unknown>
+#2 0x57e7036d0316 <unknown>
+#3 0x57e7036ce299 <unknown>
+#4 0x57e7036cb9ed <unknown>
+#5 0x57e7036caba8 <unknown>
+#6 0x57e7036be405 <unknown>
+#7 0x57e7036ed5a2 <unknown>
+#8 0x57e7036bdd48 <unknown>
+#9 0x57e7036ed76e <unknown>
+#10 0x57e70370bb7b <unknown>
+#11 0x57e7036ed343 <unknown>
+#12 0x57e7036bc032 <unknown>
+#13 0x57e7036bd00e <unknown>
+#14 0x57e703b227bf <unknown>
+#15 0x57e703b268dd <unknown>
+#16 0x57e703b10f07 <unknown>
+#17 0x57e703b27051 <unknown>
+#18 0x57e703af8dfe <unknown>
+#19 0x57e703b43338 <unknown>
+#20 0x57e703b4353a <unknown>
+#21 0x57e703b5325c <unknown>
+#22 0x7210f0a5fac3 <unknown>
+
+[2025-01-15 14:49:41.766582] Session 4: Initializing WebDriver...
+[2025-01-15 14:49:43.119970] Session 4: WebDriver initialized successfully.
+[2025-01-15 14:49:43.855279] Session 4: Using Tor IP 171.25.193.78
+[2025-01-15 14:49:43.856380] Session 4: Accessing https://soundcloud.com/dj_chad_hamad/oka-ana-mesh-faker-el-kobleh?si=cbe77ad59304495b9356fd711ef4da46&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing...
+[2025-01-15 14:49:48.969470] Session 4: Waiting for the play button...
+[2025-01-15 14:49:50.885636] Session 4: Play button found. Attempting to click...
+[2025-01-15 14:49:51.999765] Session 4: Error - Message: element click intercepted: Element is not clickable at point (60, 451)
+  (Session info: chrome=131.0.6778.264)
+Stacktrace:
+#0 0x6050805db5ea <unknown>
+#1 0x6050801026e0 <unknown>
+#2 0x605080157316 <unknown>
+#3 0x605080155299 <unknown>
+#4 0x6050801529ed <unknown>
+#5 0x605080151ba8 <unknown>
+#6 0x605080145405 <unknown>
+#7 0x6050801745a2 <unknown>
+#8 0x605080144d48 <unknown>
+#9 0x60508017476e <unknown>
+#10 0x605080192b7b <unknown>
+#11 0x605080174343 <unknown>
+#12 0x605080143032 <unknown>
+#13 0x60508014400e <unknown>
+#14 0x6050805a97bf <unknown>
+#15 0x6050805ad8dd <unknown>
+#16 0x605080597f07 <unknown>
+#17 0x6050805ae051 <unknown>
+#18 0x60508057fdfe <unknown>
+#19 0x6050805ca338 <unknown>
+#20 0x6050805ca53a <unknown>
+#21 0x6050805da25c <unknown>
+#22 0x7a4f27a11ac3 <unknown>
+
+[2025-01-15 14:50:23.066945] Session 5: Initializing WebDriver...
+[2025-01-15 14:50:23.974648] Session 5: WebDriver initialized successfully.
+[2025-01-15 14:50:24.803737] Session 5: Using Tor IP 193.36.132.21
+[2025-01-15 14:50:24.805128] Session 5: Accessing https://soundcloud.com/dj_chad_hamad/oka-ana-mesh-faker-el-kobleh?si=cbe77ad59304495b9356fd711ef4da46&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing...
+[2025-01-15 14:50:37.127550] Session 5: Waiting for the play button...
+[2025-01-15 14:50:37.158141] Session 5: Play button found. Attempting to click...
+[2025-01-15 14:50:37.328024] Session 5: Playing for 60 seconds...
+[2025-01-15 14:51:37.331560] Session 5: Playback complete.
+[2025-01-15 14:52:08.438710] Session 6: Initializing WebDriver...
+[2025-01-15 14:52:10.475558] Session 6: WebDriver initialized successfully.
+[2025-01-15 14:52:11.336044] Session 6: Using Tor IP 192.42.116.196
+[2025-01-15 14:52:11.338538] Session 6: Accessing https://soundcloud.com/dj_chad_hamad/oka-ana-mesh-faker-el-kobleh?si=cbe77ad59304495b9356fd711ef4da46&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing...
+[2025-01-15 14:52:21.649050] Session 6: Waiting for the play button...
+[2025-01-15 14:52:22.846742] Session 6: Play button found. Attempting to click...
+[2025-01-15 14:52:23.964407] Session 6: Error - Message: element click intercepted: Element is not clickable at point (60, 451)
+  (Session info: chrome=131.0.6778.264)
+Stacktrace:
+#0 0x56de970ef5ea <unknown>
+#1 0x56de96c166e0 <unknown>
+#2 0x56de96c6b316 <unknown>
+#3 0x56de96c69299 <unknown>
+#4 0x56de96c669ed <unknown>
+#5 0x56de96c65ba8 <unknown>
+#6 0x56de96c59405 <unknown>
+#7 0x56de96c885a2 <unknown>
+#8 0x56de96c58d48 <unknown>
+#9 0x56de96c8876e <unknown>
+#10 0x56de96ca6b7b <unknown>
+#11 0x56de96c88343 <unknown>
+#12 0x56de96c57032 <unknown>
+#13 0x56de96c5800e <unknown>
+#14 0x56de970bd7bf <unknown>
+#15 0x56de970c18dd <unknown>
+#16 0x56de970abf07 <unknown>
+#17 0x56de970c2051 <unknown>
+#18 0x56de97093dfe <unknown>
+#19 0x56de970de338 <unknown>
+#20 0x56de970de53a <unknown>
+#21 0x56de970ee25c <unknown>
+#22 0x7cd798027ac3 <unknown>
+
+[2025-01-15 14:52:54.032621] Session 7: Initializing WebDriver...
+[2025-01-15 14:52:54.668552] Session 7: WebDriver initialized successfully.
+[2025-01-15 14:52:55.451413] Session 7: Using Tor IP 185.220.101.3
+[2025-01-15 14:52:55.452795] Session 7: Accessing https://soundcloud.com/dj_chad_hamad/oka-ana-mesh-faker-el-kobleh?si=cbe77ad59304495b9356fd711ef4da46&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing...
+[2025-01-15 14:53:06.110491] Session 7: Waiting for the play button...
+[2025-01-15 14:53:06.129570] Session 7: Play button found. Attempting to click...
+[2025-01-15 14:53:06.286817] Session 7: Playing for 60 seconds...
+[2025-01-15 14:54:06.288983] Session 7: Playback complete.
+[2025-01-15 14:54:36.398658] Session 8: Initializing WebDriver...
+[2025-01-15 14:54:38.584989] Session 8: WebDriver initialized successfully.
+[2025-01-15 14:54:39.562139] Session 8: Using Tor IP 193.189.100.197
+[2025-01-15 14:54:39.563317] Session 8: Accessing https://soundcloud.com/dj_chad_hamad/oka-ana-mesh-faker-el-kobleh?si=cbe77ad59304495b9356fd711ef4da46&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing...
+[2025-01-15 14:54:54.280418] Session 8: Waiting for the play button...
+[2025-01-15 14:54:55.633354] Session 8: Play button found. Attempting to click...
+[2025-01-15 14:54:57.124574] Session 8: Error - Message: element click intercepted: Element is not clickable at point (60, 451)
+  (Session info: chrome=131.0.6778.264)
+Stacktrace:
+#0 0x595262c125ea <unknown>
+#1 0x5952627396e0 <unknown>
+#2 0x59526278e316 <unknown>
+#3 0x59526278c299 <unknown>
+#4 0x5952627899ed <unknown>
+#5 0x595262788ba8 <unknown>
+#6 0x59526277c405 <unknown>
+#7 0x5952627ab5a2 <unknown>
+#8 0x59526277bd48 <unknown>
+#9 0x5952627ab76e <unknown>
+#10 0x5952627c9b7b <unknown>
+#11 0x5952627ab343 <unknown>
+#12 0x59526277a032 <unknown>
+#13 0x59526277b00e <unknown>
+#14 0x595262be07bf <unknown>
+#15 0x595262be48dd <unknown>
+#16 0x595262bcef07 <unknown>
+#17 0x595262be5051 <unknown>
+#18 0x595262bb6dfe <unknown>
+#19 0x595262c01338 <unknown>
+#20 0x595262c0153a <unknown>
+#21 0x595262c1125c <unknown>
+#22 0x703616a32ac3 <unknown>
+
+[2025-01-15 14:55:28.192335] Session 9: Initializing WebDriver...
+[2025-01-15 14:55:28.991201] Session 9: WebDriver initialized successfully.
+[2025-01-15 14:55:31.183233] Session 9: Using Tor IP 45.94.31.68
+[2025-01-15 14:55:31.184477] Session 9: Accessing https://soundcloud.com/dj_chad_hamad/oka-ana-mesh-faker-el-kobleh?si=cbe77ad59304495b9356fd711ef4da46&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing...
+[2025-01-15 14:55:47.259619] Session 9: Waiting for the play button...
+[2025-01-15 14:55:48.362439] Session 9: Play button found. Attempting to click...
+[2025-01-15 14:55:49.863789] Session 9: Error - Message: element click intercepted: Element is not clickable at point (60, 451)
+  (Session info: chrome=131.0.6778.264)
+Stacktrace:
+#0 0x61b43c3ec5ea <unknown>
+#1 0x61b43bf136e0 <unknown>
+#2 0x61b43bf68316 <unknown>
+#3 0x61b43bf66299 <unknown>
+#4 0x61b43bf639ed <unknown>
+#5 0x61b43bf62ba8 <unknown>
+#6 0x61b43bf56405 <unknown>
+#7 0x61b43bf855a2 <unknown>
+#8 0x61b43bf55d48 <unknown>
+#9 0x61b43bf8576e <unknown>
+#10 0x61b43bfa3b7b <unknown>
+#11 0x61b43bf85343 <unknown>
+#12 0x61b43bf54032 <unknown>
+#13 0x61b43bf5500e <unknown>
+#14 0x61b43c3ba7bf <unknown>
+#15 0x61b43c3be8dd <unknown>
+#16 0x61b43c3a8f07 <unknown>
+#17 0x61b43c3bf051 <unknown>
+#18 0x61b43c390dfe <unknown>
+#19 0x61b43c3db338 <unknown>
+#20 0x61b43c3db53a <unknown>
+#21 0x61b43c3eb25c <unknown>
+#22 0x74fe2518fac3 <unknown>
+
+[2025-01-15 14:56:20.960918] Session 10: Initializing WebDriver...
+[2025-01-15 14:56:21.796229] Session 10: WebDriver initialized successfully.
+[2025-01-15 14:56:22.857656] Session 10: Using Tor IP 194.26.192.77
+[2025-01-15 14:56:22.858943] Session 10: Accessing https://soundcloud.com/dj_chad_hamad/oka-ana-mesh-faker-el-kobleh?si=cbe77ad59304495b9356fd711ef4da46&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing...
+[2025-01-15 14:56:42.791980] Session 10: Waiting for the play button...
+[2025-01-15 14:56:42.810569] Session 10: Play button found. Attempting to click...
+[2025-01-15 14:56:42.971833] Session 10: Playing for 60 seconds...
+[2025-01-15 14:57:42.974424] Session 10: Playback complete.
+[2025-01-15 14:58:14.084510] Session 11: Initializing WebDriver...
+[2025-01-15 14:58:15.729793] Session 11: WebDriver initialized successfully.
+[2025-01-15 14:58:16.503992] Session 11: Using Tor IP 109.70.100.67
+[2025-01-15 14:58:16.505173] Session 11: Accessing https://soundcloud.com/dj_chad_hamad/oka-ana-mesh-faker-el-kobleh?si=cbe77ad59304495b9356fd711ef4da46&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing...
+[2025-01-15 14:58:20.724448] Session 11: Waiting for the play button...
+[2025-01-15 14:58:22.055863] Session 11: Play button found. Attempting to click...
+[2025-01-15 14:58:23.799120] Session 11: Error - Message: element click intercepted: Element is not clickable at point (60, 451)
+  (Session info: chrome=131.0.6778.264)
+Stacktrace:
+#0 0x5c03eff0e5ea <unknown>
+#1 0x5c03efa356e0 <unknown>
+#2 0x5c03efa8a316 <unknown>
+#3 0x5c03efa88299 <unknown>
+#4 0x5c03efa859ed <unknown>
+#5 0x5c03efa84ba8 <unknown>
+#6 0x5c03efa78405 <unknown>
+#7 0x5c03efaa75a2 <unknown>
+#8 0x5c03efa77d48 <unknown>
+#9 0x5c03efaa776e <unknown>
+#10 0x5c03efac5b7b <unknown>
+#11 0x5c03efaa7343 <unknown>
+#12 0x5c03efa76032 <unknown>
+#13 0x5c03efa7700e <unknown>
+#14 0x5c03efedc7bf <unknown>
+#15 0x5c03efee08dd <unknown>
+#16 0x5c03efecaf07 <unknown>
+#17 0x5c03efee1051 <unknown>
+#18 0x5c03efeb2dfe <unknown>
+#19 0x5c03efefd338 <unknown>
+#20 0x5c03efefd53a <unknown>
+#21 0x5c03eff0d25c <unknown>
+#22 0x7a677d7eeac3 <unknown>
+
+[2025-01-15 14:58:53.905888] Session 12: Initializing WebDriver...
+[2025-01-15 14:58:54.714112] Session 12: WebDriver initialized successfully.
+[2025-01-15 14:58:55.649078] Session 12: Using Tor IP 185.40.4.149
+[2025-01-15 14:58:55.650119] Session 12: Accessing https://soundcloud.com/dj_chad_hamad/oka-ana-mesh-faker-el-kobleh?si=cbe77ad59304495b9356fd711ef4da46&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing...
+[2025-01-15 14:59:02.270463] Session 12: Waiting for the play button...
