@@ -1,0 +1,39 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+xdg-utils is already the newest version (1.1.3-4.1ubuntu3).
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+
+
+███████╗ ██████╗ ██╗   ██╗███╗   ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
+██╔════╝██╔═══██╗██║   ██║████╗  ██║██╔════╝██╔═══██╗██║     ██╔══██╗
+███████╗██║   ██║██║   ██║██╔██╗ ██║██║     ██║   ██║██║     ██║  ██║
+╚════██║██║▄▄ ██║██║   ██║██║╚██╗██║██║     ██║   ██║██║     ██║  ██║
+███████║╚██████╔╝╚██████╔╝██║ ╚████║╚██████╗╚██████╔╝███████╗██████╔╝
+╚══════╝ ╚══▀▀═╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚══════╝╚═════╝ 
+
+
+Welcome to the SoundCloud Playback Stress Tester!
+
+Enter the SoundCloud song URL: Traceback (most recent call last):
+  File "/home/ubuntu/soundclouddis.py", line 191, in <module>
+    main()
+  File "/home/ubuntu/soundclouddis.py", line 156, in main
+    song_url = Prompt.ask("[green bold]Enter the SoundCloud song URL[/green bold]")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myenv/lib/python3.12/site-packages/rich/prompt.py", line 149, in ask
+    return _prompt(default=default, stream=stream)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myenv/lib/python3.12/site-packages/rich/prompt.py", line 292, in __call__
+    value = self.get_input(self.console, prompt, self.password, stream=stream)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myenv/lib/python3.12/site-packages/rich/prompt.py", line 211, in get_input
+    return console.input(prompt, password=password, stream=stream)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myenv/lib/python3.12/site-packages/rich/console.py", line 2151, in input
+    result = input()
+             ^^^^^^^
+EOFError: EOF when reading a line

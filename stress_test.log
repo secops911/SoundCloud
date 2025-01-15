@@ -1,0 +1,32 @@
+[2025-01-14 10:53:50.926878] Starting stress test: 10 sessions, 5 concurrent sessions, 60s duration.
+[2025-01-14 10:53:50.930413] Session 1 started.
+[2025-01-14 10:53:50.933107] Session 2 started.
+[2025-01-14 10:53:50.934476] Session 3 started.
+[2025-01-14 10:53:50.937118] Session 4 started.
+[2025-01-14 10:53:51.186314] Session 4: Successfully accessed the song.
+[2025-01-14 10:53:51.189844] Session 1: Successfully accessed the song.
+[2025-01-14 10:53:51.192278] Session 2: Successfully accessed the song.
+[2025-01-14 10:53:51.194873] Session 3: Successfully accessed the song.
+[2025-01-14 10:54:51.187653] Session 4 completed.
+[2025-01-14 10:54:51.190880] Session 1 completed.
+[2025-01-14 10:54:51.193455] Session 2 completed.
+[2025-01-14 10:54:51.195693] Session 3 completed.
+[2025-01-14 10:54:51.455043] Session 5 started.
+[2025-01-14 10:54:51.457111] Session 6 started.
+[2025-01-14 10:54:51.458793] Session 7 started.
+[2025-01-14 10:54:51.462738] Session 8 started.
+[2025-01-14 10:54:51.631411] Session 7: Successfully accessed the song.
+[2025-01-14 10:54:51.716314] Session 5: Successfully accessed the song.
+[2025-01-14 10:54:51.722745] Session 6: Successfully accessed the song.
+[2025-01-14 10:54:51.729772] Session 8: Successfully accessed the song.
+[2025-01-14 10:55:51.632654] Session 7 completed.
+[2025-01-14 10:55:51.717613] Session 5 completed.
+[2025-01-14 10:55:51.723771] Session 6 completed.
+[2025-01-14 10:55:51.731348] Session 8 completed.
+[2025-01-14 10:55:51.983739] Session 9 started.
+[2025-01-14 10:55:51.986008] Session 10 started.
+[2025-01-14 10:55:52.241457] Session 9: Successfully accessed the song.
+[2025-01-14 10:55:52.243375] Session 10: Successfully accessed the song.
+[2025-01-14 10:56:52.243479] Session 9 completed.
+[2025-01-14 10:56:52.244554] Session 10 completed.
+[2025-01-14 10:56:52.246621] Stress test completed. Total errors: 0.
